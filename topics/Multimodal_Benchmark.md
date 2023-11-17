@@ -1,4 +1,20 @@
-## High quality multi-modal dataset in Kaggle
+Multimodal Benchmarks
+======
+
+### Benchmark
+
+1. MultiBench [[Paper](https://arxiv.org/pdf/2107.07502.pdf)][[Code](https://github.com/pliang279/MultiBench)]: a benchmark for multimodal learning spanning 15 datasets, 10 modalities, 20 prediction tasks, and 6 research areas. MultiBench provides an automated end-to-end machine learning pipeline, and offers evaluation methodology to study (1) generalization, (2) time and space complexity, and (3) modality robustness.
+
+2. FedMultimodal [[Paper](https://arxiv.org/pdf/2306.09486.pdf)][[Code](https://github.com/usc-sail/fed-multimodal)]: is an open source project for researchers exploring multimodal applications in Federated Learning setup.
+
+
+3. Benchmarking Multimodal AutoML for Tabular Data with Text Fields [[Paper](https://arxiv.org/pdf/2111.02705.pdf)][[Code](https://github.com/sxjscience/automl_multimodal_benchmark)]
+
+
+4. Multimodal Sentiment Analysis Benchmark on CMU-MOSI [[Link](https://paperswithcode.com/sota/multimodal-sentiment-analysis-on-cmu-mosi)]
+
+
+### High quality multi-modal dataset in Kaggle
 1. Multimodal Hate Speech(text+image)[[link](https://www.kaggle.com/datasets/victorcallejasf/multimodal-hate-speech)]
 2. Extended Wikipedia Multimodal Dataset(text+image)[[link](https://www.kaggle.com/datasets/jacksoncrow/extended-wikipedia-multimodal-dataset)]
 3. Tufts Face Database(7 image modalities: visible, near-infrared, thermal, computerized sketch, video, LYTRO and 3D images)[[link](https://www.kaggle.com/datasets/kpvisionlab/tufts-face-database)]
@@ -25,3 +41,10 @@
 13. CLEVR: A dataset for visual reasoning tasks. It contains synthetic images, scene graphs, and questions about the images. [[link](https://cs.stanford.edu/people/jcjohns/clevr/)]
 14. MM-IMDB (Multi-Modal IMDB): A dataset for movie genre classification. It combines text (movie plots) and images (movie posters). [[link](https://github.com/MIRALab-USTB/MM-IMDB)]
 15. Recipe1M: A dataset containing over one million cooking recipes and 800k food images, combining text (recipes) and images (food). [[link](http://pic2recipe.csail.mit.edu/)]
+16. Synthetic Data: [*DAG Data](https://github.com/Lantian72/MM-DAG/blob/main/sim.py)
+
+17. Satellite feature sources: [Meta](https://dataforgood.facebook.com/dfg/tools) - Population, Mobility, Demographics; [OpenStreetMap](https://www.kaggle.com/datasets/bigquery/geo-openstreetmap) - Infrasturcture; [OpenCelliD](https://www.opencellid.org/downloads.php) - Connectivity.
+
+18. Social Media: [Twitter100k](https://github.com/huyt16/Twitter100k) (100,000 text-image pairs); [HFUT-mmdata](http://scholarhub.cn/ScholarHubProject/MMTM/HFUT-mmdata.zip) (74,364 text-image pairs)
+
+19. Sentiment Analysis Data: [CMU-MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/); [CMU-MOSEI](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/).
