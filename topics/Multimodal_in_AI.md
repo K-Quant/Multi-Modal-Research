@@ -46,6 +46,27 @@ Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (
 >* Medical Prediction
 5. MEWL: Few-shot multimodal word learning with referential uncertainty.[Link](https://arxiv.org/pdf/2306.00503.pdf)
 >* This paper introduces the MachinE Word Learning (MEWL) benchmark to assess how machines learn word meaning in grounded visual scenes.
+6. VIMA: Robot Manipulation with Multimodal Prompts.[Link](https://proceedings.mlr.press/v202/jiang23b/jiang23b.pdf)
+> * Multimodal application in generalist robot
+7. Robustness in Multimodal Learning under Train-Test Modality Mismatch.[Link](https://proceedings.mlr.press/v202/mckinzie23a/mckinzie23a.pdf)
+> * Robustness improvement in multimodal learning
+8. Data Poisoning Attacks Against Multimodal Encoders.[Link](https://proceedings.mlr.press/v202/yang23f/yang23f.pdf)
+> * Anti-attack in multimodal encoders
+9. PaLM-E: An Embodied Multimodal Language Model.[Link](https://proceedings.mlr.press/v202/driess23a/driess23a.pdf)
+> * This paper proposes embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts.
+10. Grounding Language Models to Images for Multimodal Inputs and Outputs.[Link](https://openreview.net/pdf?id=ElaajXDEKR)
+> * Generate text interleaved with retrieved images.
+11. Retrieval-Augmented Multimodal Language Modeling.[Link](https://openreview.net/pdf?id=VZ8bs0fwoO)
+> * Enables a base multimodal model (generator) to refer to relevant text and images fetched by a retriever from external 
+
+## 2022
+
+1. Mitigating Modality Collapse in Multimodal VAEs via Impartial Optimization.[Link](https://proceedings.mlr.press/v162/javaloy22a/javaloy22a.pdf)
+> * Multimodal VAE training
+2. Geometric Multimodal Contrastive Representation Learning.[Link](https://proceedings.mlr.press/v162/poklukar22a.html)
+3. Ofa: Unifying architectures, tasks, and modalities through a simple sequence-to-sequence learning framework.[Link](https://proceedings.mlr.press/v162/wang22al.html)
+> * This work pursues a unified paradigm for multimodal pretraining to break the shackles of complex task/modality-specific customization.
+
 
 # NeurIPS
 ## 2023
