@@ -34,3 +34,17 @@
 
 # Workshops
 Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (DE-FACTIFY 2022) co-located with the Thirty-Sixth AAAI Conference on Artificial Intelligence ( AAAI 2022), Virtual Event, Vancouver, Canada, February 27, 2022. CEUR Workshop Proceedings 3199, CEUR-WS.org 2022
+
+# ICML
+## 2023
+
+
+1. Provable Dynamic Fusion for Low-Quality Multimodal Data.[Link](https://arxiv.org/pdf/2306.02050.pdf)
+> * Introducing dynamic fusion mechanism to multimodal information fusion 
+2. Calibrating Multimodal Learning.[Link](https://openreview.net/pdf?id=4PgzyLz6hi)
+> * A novel regularization technique to calibrate the predictive confidence of previous methods.
+3. π-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation.[Link](https://proceedings.mlr.press/v202/wu23t/wu23t.pdf)
+4. Improving Medical Predictions by Irregular Multimodal Electronic Health Records Modeling.[Link](https://proceedings.mlr.press/v202/zhang23v/zhang23v.pdf)
+>* Medical Prediction
+5. MEWL: Few-shot multimodal word learning with referential uncertainty.[Link](https://arxiv.org/pdf/2306.00503.pdf)
+>* This paper introduces the MachinE Word Learning (MEWL) benchmark to assess how machines learn word meaning in grounded visual scenes.
