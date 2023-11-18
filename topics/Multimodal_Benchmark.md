@@ -27,24 +27,21 @@ Multimodal Benchmarks
 
 ### Other open-source multi-modal dataset 
 1. VQA v2.0: The Visual Question Answering dataset has a collection of images and questions about them that are open-ended and can be answered in multiple ways.[[link](https://visualqa.org/)]
-2. Multi30K: A dataset for Multimodal Machine Translation, contains 31,014 images from Flickr and 145,000 sentences in English and German.[[link](https://multi30kdataset.readthedocs.io/en/latest/)]
-3. CMU-MOSEI: Multimodal Sentiment Analysis dataset contains sentiment annotations and labels for a large number of video clips from the Internet.[[link](http://immortal.multicomp.cs.cmu.edu/raw_datasets/)]
-4. REDDIT-MULTI-5K: A dataset from the Reddit platform, which is a rich source of naturally occurring multi-modal (text, metadata and image) data.[[link](http://ama.liglab.fr/data/)]
-5. MuSe-CaR: Multimodal Sentiment Analysis in Real-life Media dataset contains real-life data from YouTube videos including the audio, visual and verbal modalities.[[link](https://www.musecar.com/)]
+2. Multi30K: A dataset for Multimodal Machine Translation, contains 31,014 images from Flickr and 145,000 sentences in English and German.[[link](https://github.com/multi30k/dataset)]
+3. CMU-MOSEI: Multimodal Sentiment Analysis dataset contains sentiment annotations and labels for a large number of video clips from the Internet.[[link](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/)]
+4. REDDIT-MULTI-5K: A dataset from the Reddit platform, which is a rich source of naturally occurring multi-modal (text, metadata and image) data.[[link](https://paperswithcode.com/dataset/reddit-5k)]
+5. MuSe-CaR: Multimodal Sentiment Analysis in Real-life Media dataset contains real-life data from YouTube videos including the audio, visual and verbal modalities.[[link](https://paperswithcode.com/dataset/muse-car)]
 6. MS-COCO (Microsoft Common Objects in Context): A dataset for object detection, segmentation, and captioning. It includes images and text captions that describe the images. [[link](https://cocodataset.org/#home)]
-7. Flickr30k: A dataset consisting of 31,000 images and 5 captions per image. It combines images and text. [[link](http://shannon.cs.illinois.edu/DenotationGraph/)]
+7. Flickr30k: A dataset consisting of 31,000 images and 5 captions per image. It combines images and text. [[link](https://paperswithcode.com/dataset/flickr30k)]
 8. IMDB-WIKI: A large dataset of celebrity faces with information about their age, gender, and name. It includes images and categorical data. [[link](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)]
 9. MNLI (Multi-Genre Natural Language Inference): A dataset for textual entailment that includes text pairs from multiple genres and sources. [[link](https://cims.nyu.edu/~sbowman/multinli/)]
 10. TabFact: A large-scale dataset consisting of 16k Wikipedia tables and 118k natural language sentences that entail a true/false judgment. It combines tabular data and text. [[link](https://github.com/wenhuchen/Table-Fact-Checking)]
 11. ImageCLEF: A benchmark series that offers tasks for multimodal classification, where images are paired with text and metadata. [[link](https://www.imageclef.org/)]
-12. CUHK-PEDES: A dataset for person search with natural language description, containing images of people and their textual descriptions. [[link](https://github.com/ShuangLI59/Person_Search_with_Natural_Language_Description)]
+12. CUHK-PEDES: A dataset for person search with natural language description, containing images of people and their textual descriptions. [[link](https://paperswithcode.com/dataset/cuhk-pedes)]
 13. CLEVR: A dataset for visual reasoning tasks. It contains synthetic images, scene graphs, and questions about the images. [[link](https://cs.stanford.edu/people/jcjohns/clevr/)]
-14. MM-IMDB (Multi-Modal IMDB): A dataset for movie genre classification. It combines text (movie plots) and images (movie posters). [[link](https://github.com/MIRALab-USTB/MM-IMDB)]
+14. MM-IMDB (Multi-Modal IMDB): A dataset for movie genre classification. It combines text (movie plots) and images (movie posters). [[link](https://cmu-multicomp-lab.github.io/multibench/datasets/)]
 15. Recipe1M: A dataset containing over one million cooking recipes and 800k food images, combining text (recipes) and images (food). [[link](http://pic2recipe.csail.mit.edu/)]
 16. Synthetic Data: [*DAG Data](https://github.com/Lantian72/MM-DAG/blob/main/sim.py)
-
 17. Satellite feature sources: [Meta](https://dataforgood.facebook.com/dfg/tools) - Population, Mobility, Demographics; [OpenStreetMap](https://www.kaggle.com/datasets/bigquery/geo-openstreetmap) - Infrasturcture; [OpenCelliD](https://www.opencellid.org/downloads.php) - Connectivity.
-
 18. Social Media: [Twitter100k](https://github.com/huyt16/Twitter100k) (100,000 text-image pairs); [HFUT-mmdata](http://scholarhub.cn/ScholarHubProject/MMTM/HFUT-mmdata.zip) (74,364 text-image pairs)
-
 19. Sentiment Analysis Data: [CMU-MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/); [CMU-MOSEI](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/).
