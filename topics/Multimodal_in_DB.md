@@ -2,7 +2,7 @@ Multimodal Works in DB Area
 ======
 Note: papers are mainly from five database and data mining related conferences.
 
-For DB area, there are domains including Vector DB, Multimodal KG, Representation Learning, or Multimedia Application.
+For DB area, there are domains including Vector DB, Multimodal KG, Representation Learning, or Multimodal Application.
 
 ### SIGMOD
 
@@ -28,7 +28,7 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 
 1. [Multimodal Application] Multimodal Indoor Localisation in Parkinson's Disease for Detecting Medication Use: Observational Pilot Study in a Free-Living Setting. (2023) [[Paper](https://doi.org/10.1145/3580305.3599872)]
 
-2. [Representation Learning] M3PT: A Multi-Modal Model for POI Tagging. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3580305.3599862)]
+2. [Multimodal Application] M3PT: A Multi-Modal Model for POI Tagging. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3580305.3599862)]
 
 3. [Multimodal Application] Robust Multimodal Failure Detection for Microservice Systems. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3580305.3599902)]
 
@@ -59,32 +59,32 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 
 ### WWW
 
-1. Multi-Modal Self-Supervised Learning for Recommendation. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583206)]
+1. [Multimodal Application] Multi-Modal Self-Supervised Learning for Recommendation. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583206)]
 
-2. Bootstrap Latent Representations for Multi-modal Recommendation. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583251)]
+2. [Multimodal Application] Bootstrap Latent Representations for Multi-modal Recommendation. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583251)]
 
-3. MMMLP: Multi-modal Multilayer Perceptron for Sequential Recommendations. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583378)]
+3. [Multimodal Application] MMMLP: Multi-modal Multilayer Perceptron for Sequential Recommendations. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583378)]
 
-4. Learning Robust Multi-Modal Representation for Multi-Label Emotion Recognition via Adversarial Masking and Perturbation. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583258)]
+4. [Multimodal Application] Learning Robust Multi-Modal Representation for Multi-Label Emotion Recognition via Adversarial Masking and Perturbation. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583258)]
 
-5. TMMDA: A New Token Mixup Multimodal Data Augmentation for Multimodal Sentiment Analysis. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583406)]
+5. [Multimodal Application] TMMDA: A New Token Mixup Multimodal Data Augmentation for Multimodal Sentiment Analysis. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583406)]
 
-6. Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583520)]
+6. [Multimodal Application] Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583520)]
 
-7. A Multi-view Meta-learning Approach for Multi-modal Response Generation.  (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583548)]
+7. [Multimodal Application] A Multi-view Meta-learning Approach for Multi-modal Response Generation.  (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583548)]
 
-8. Cross-Modality Mutual Learning for Enhancing Smart Contract Vulnerability Detection on Bytecode. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583367)]
+8. [Multimodal Application] Cross-Modality Mutual Learning for Enhancing Smart Contract Vulnerability Detection on Bytecode. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583367)]
 
-9. CapEnrich: Enriching Caption Semantics for Web Images via Cross-modal Pre-trained Knowledge. (2023) [[Paper](https://doi.org/10.1145/3543507.3583232)]
+9. [Multimodal Application] CapEnrich: Enriching Caption Semantics for Web Images via Cross-modal Pre-trained Knowledge. (2023) [[Paper](https://doi.org/10.1145/3543507.3583232)]
 
-10. Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment. (2023) [[Paper](https://doi.org/10.1145/3543507.3583328)]
+10. [Representation Learning] Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment. (2023) [[Paper](https://doi.org/10.1145/3543507.3583328)]
 
-11. IMF: Interactive Multimodal Fusion Model for Link Prediction. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583554)]
+11. [Representation Learning] IMF: Interactive Multimodal Fusion Model for Link Prediction. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583554)]
 
-12. SA-Fusion: Multimodal Fusion Approach for Web-based Human-Computer Interaction in the Wild. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3587429)]
+12. [Multimodal Application] SA-Fusion: Multimodal Fusion Approach for Web-based Human-Computer Interaction in the Wild. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3587429)]
 
-13. Coherent Topic Modeling for Creative Multimodal Data on Social Media. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3587433)]
+13. [Representation Learning] Coherent Topic Modeling for Creative Multimodal Data on Social Media. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3587433)]
 
-14. Interpreting wealth distribution via poverty map inference using multimodal data. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583862)]
+14. [Representation Learning] Interpreting wealth distribution via poverty map inference using multimodal data. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583862)]
 
-15. EDNet: Attention-Based Multimodal Representation for Classification of Twitter Users Related to Eating Disorders. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583863)]
+15. [Multimodal Application] EDNet: Attention-Based Multimodal Representation for Classification of Twitter Users Related to Eating Disorders. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583863)]
