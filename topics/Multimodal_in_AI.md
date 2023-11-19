@@ -120,6 +120,26 @@
 2. Geometric Multimodal Contrastive Representation Learning.[Link](https://proceedings.mlr.press/v162/poklukar22a.html)
 3. Ofa: Unifying architectures, tasks, and modalities through a simple sequence-to-sequence learning framework.[Link](https://proceedings.mlr.press/v162/wang22al.html)
 > * This work pursues a unified paradigm for multimodal pretraining to break the shackles of complex task/modality-specific customization.
+# IJCAI
+## 2023
+1. Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond.[Link](https://www.ijcai.org/proceedings/2023/138)
+2. Acoustic NLOS Imaging with Cross Modal Knowledge Distillation.[Link](https://www.ijcai.org/proceedings/2023/156)
+3. 3D Surface Super-resolution from Enhanced 2D Normal Images: A Multimodal-driven Variational AutoEncoder Approach.[Linke](https://www.ijcai.org/proceedings/2023/175)
+4. MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment. [Link](https://www.ijcai.org/proceedings/2023/195)
+5. A Multi-Modal Neural Geometric Solver with Textual Clauses Parsed from Diagram.[Link](https://www.ijcai.org/proceedings/2023/376)
+6. Multi-Modality Deep Network for JPEG Artifacts Reduction. [Link](https://www.ijcai.org/proceedings/2023/429)
+7. SSML-QNet: Scale-Separative Metric Learning Quadruplet Network for Multi-modal Image Patch Matching.[Link](https://www.ijcai.org/proceedings/2023/511)
+8. Cross-Modal Global Interaction and Local Alignment for Audio-Visual Speech Recognition.[Link](https://www.ijcai.org/proceedings/2023/564)
+## 2022 
+1. AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection. [Link](https://www.ijcai.org/proceedings/2022/116)
+2. Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation. [Link](https://www.ijcai.org/proceedings/2022/117)
+3. Representation Learning for Compressed Video Action Recognition via Attentive Cross-modal Interaction with Motion Enhancement.[Link](https://www.ijcai.org/proceedings/2022/148)
+4. MFAN: Multi-modal Feature-enhanced Attention Networks for Rumor Detection.[Link](https://www.ijcai.org/proceedings/2022/335)
+5. Cross-modal Representation Learning and Relation Reasoning for Bidirectional Adaptive Manipulation.[Link](https://www.ijcai.org/proceedings/2022/447)
+6. MMT: Multi-way Multi-modal Transformer for Multimodal Learning.[Link](https://www.ijcai.org/proceedings/2022/480)
+7. Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural Networks.[Link](https://www.ijcai.org/proceedings/2022/482)
+8. Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast.[Link](https://www.ijcai.org/proceedings/2022/526)
+9. Targeted Multimodal Sentiment Classification based on Coarse-to-Fine Grained Image-Target Matching.[Link](https://www.ijcai.org/proceedings/2022/622)
 
 # ICLR
 
