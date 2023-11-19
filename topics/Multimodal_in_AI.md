@@ -68,6 +68,13 @@ Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (
 > * This work pursues a unified paradigm for multimodal pretraining to break the shackles of complex task/modality-specific customization.
 
 # ICLR
+
+## 2024
+1. Benchmarking Multimodal Variational Autoencoders: CdSprites+ Dataset and Toolkit.[Link](https://openreview.net/attachment?id=3DPTnFokLp&name=pdf)
+> * Benchmark comparison and evaluation for Multimodal VAE
+2. Score-Based Multimodal Autoencoders.[Link](https://openreview.net/attachment?id=YBSEwwveMr&name=pdf)
+> * enhance the generative performance of multimodal VAEs
+
 ## 2023
 
 1. MultiViz: Towards Visualizing and Understanding Multimodal Models.[Link](https://openreview.net/pdf?id=i2_TvOFmEml)
@@ -83,6 +90,13 @@ Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (
 6. Identifiability Results for Multimodal Contrastive Learning.[Link](https://arxiv.org/pdf/2303.09166.pdf)
 7. Multimodal Federated Learning via Contrastive Representation Ensemble[Link](https://arxiv.org/pdf/2302.08888.pdf)
 8. Learning Multimodal Data Augmentation in Feature Space.[Link](https://arxiv.org/pdf/2212.14453.pdf)
+
+## 2022
+1. Learning Multimodal VAEs through Mutual Supervision.[Link](https://arxiv.org/pdf/2106.12570.pdf)
+> * Multimodal VAEs
+2. On the Limitations of Multimodal VAEs.[Link](https://openreview.net/forum?id=w-CPUXXrAj)
+> * Multimodal VAEs
+3. Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction.[Link](https://arxiv.org/pdf/2201.02184.pdf)
 
 
 
