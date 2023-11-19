@@ -67,6 +67,24 @@ Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (
 3. Ofa: Unifying architectures, tasks, and modalities through a simple sequence-to-sequence learning framework.[Link](https://proceedings.mlr.press/v162/wang22al.html)
 > * This work pursues a unified paradigm for multimodal pretraining to break the shackles of complex task/modality-specific customization.
 
+# ICLR
+## 2023
+
+1. MultiViz: Towards Visualizing and Understanding Multimodal Models.[Link](https://openreview.net/pdf?id=i2_TvOFmEml)
+> * Assign interpretable concepts to features
+2. Multimodal Analogical Reasoning over Knowledge Graphs.[Link](https://arxiv.org/pdf/2210.00312.pdf)
+> * KG
+3. Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language.[Link](https://arxiv.org/pdf/2204.00598.pdf)
+> * Socratic Models (SMs): a modular framework in which multiple pretrained models may be composed zero-shot.
+4. Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning.[Link](https://arxiv.org/pdf/2302.14794.pdf)
+> * Multimodal few-shot learning
+5. MMVAE+: Enhancing the Generative Quality of Multimodal VAEs without Compromises.[Link](https://www.research-collection.ethz.ch/handle/20.500.11850/637761)
+> * Multimodal VAEs
+6. Identifiability Results for Multimodal Contrastive Learning.[Link](https://arxiv.org/pdf/2303.09166.pdf)
+7. Multimodal Federated Learning via Contrastive Representation Ensemble[Link](https://arxiv.org/pdf/2302.08888.pdf)
+8. Learning Multimodal Data Augmentation in Feature Space.[Link](https://arxiv.org/pdf/2212.14453.pdf)
+
+
 
 # NeurIPS
 ## 2023
