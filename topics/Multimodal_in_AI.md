@@ -98,6 +98,14 @@ Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (
 > * Multimodal VAEs
 3. Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction.[Link](https://arxiv.org/pdf/2201.02184.pdf)
 
+## 2021
+1. Generalized Multimodal ELBO.[Link](https://openreview.net/forum?id=5Y21V0RDBV)
+2. MultiModalQA: complex question answering over text, tables and images.[Link](https://openreview.net/forum?id=ee6W5UgQLa)
+3. HalentNet: Multimodal Trajectory Forecasting with Hallucinative Intents.[Link](https://openreview.net/forum?id=9GBZBPn0Jx)
+4. Parameter Efficient Multimodal Transformers for Video Representation Learning.[Link](https://openreview.net/forum?id=6UdQLhqJyFD)
+5. Relating by Contrasting: A Data-efficient Framework for Multimodal Generative Models.[Link](https://openreview.net/forum?id=vhKe9UFbrJo)
+> * Reduce the amount of related data required for effective learning
+
 
 
 # NeurIPS
