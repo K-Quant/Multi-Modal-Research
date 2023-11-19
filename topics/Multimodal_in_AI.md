@@ -45,28 +45,29 @@
 31. Multimodal Propaganda Processing.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26792)
 
 ## 2022
-1. Event-Image Fusion Stereo Using Cross-Modality Feature Propagation.[Link]()
-2. MuMu: Cooperative Multitask Learning-Based Guided Multimodal Fusion.[Link]()_
-3. Cross-Modal Object Tracking: Modality-Aware Representations and a Unified Benchmark.[Link]()
+1. Event-Image Fusion Stereo Using Cross-Modality Feature Propagation.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/19923)
+> * Image & Event
+2. MuMu: Cooperative Multitask Learning-Based Guided Multimodal Fusion.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/19988)_
+> * Multimodal sensors (visual, non-visual, and wearable)
+3. Cross-Modal Object Tracking: Modality-Aware Representations and a Unified Benchmark.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20016)
 4. You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20017)
 > * Texts & Images
-5. Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking.[Link]()
-6. Visual Sound Localization in the Wild by Cross-Modal Interference Erasing.[Link]()
-7. TVT: Three-Way Vision Transformer through Multi-Modal Hypersphere Learning for Zero-Shot Sketch-Based Image Retrieval.[Link]()
+5. Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20035)
+6. Visual Sound Localization in the Wild by Cross-Modal Interference Erasing.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20073)
+7. TVT: Three-Way Vision Transformer through Multi-Modal Hypersphere Learning for Zero-Shot Sketch-Based Image Retrieval.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20136)
 8. Interact, Embed, and EnlargE: Boosting Modality-Specific Representations for Multi-Modal Person Re-identification.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20165)
-9. Multi-Modal Answer Validation for Knowledge-Based VQA. [Link]()
+9. Multi-Modal Answer Validation for Knowledge-Based VQA. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20174)
 10. Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20210)
 > * Visual & Audio
-11. Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specific Representation Learning.[Link]()
-> * 
+11. Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specific Representation Learning.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20213)
 12. Show Your Faith: Cross-Modal Confidence-Aware Network for Image-Text Matching.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20235)
 > * Texts & Images
 13. MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-Based Image Captioning.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20243)
 > * Texts & Images
 14. Event-Aware Multimodal Mobility Nowcasting.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20342)
 > * Event-aware spatio-temporal network
-15. Online Enhanced Semantic Hashing: Towards Effective and Efficient Retrieval for Streaming Multi-Modal Data.[Link]()
-16. Multimodal Adversarially Learned Inference with Factorized Discriminators.[Link]()
+15. Online Enhanced Semantic Hashing: Towards Effective and Efficient Retrieval for Streaming Multi-Modal Data.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20346)
+16. Multimodal Adversarially Learned Inference with Factorized Discriminators.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20580)
 17. Multi-Head Modularization to Leverage Generalization Capability in Multi-Modal Networks. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20698)
 18. BM-NAS: Bilevel Multimodal Neural Architecture Search. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20872)
 19. Tailor Versatile Multi-Modal Learning for Multi-Label Emotion Recognition.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20895)
