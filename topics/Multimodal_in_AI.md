@@ -83,10 +83,7 @@
 > * Texts & Images
 25. D-vlog: Multimodal Vlog Dataset for Depression Detection.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/21483)
 > * Acoustic & Visual freatures
-# Workshops & Tutorial
-1. Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (DE-FACTIFY 2022) co-located with the Thirty-Sixth AAAI Conference on Artificial Intelligence ( AAAI 2022), Virtual Event, Vancouver, Canada, February 27, 2022. CEUR Workshop Proceedings 3199, CEUR-WS.org 2022
-2.
-3. 
+
 # ICML
 ## 2023
 
@@ -284,3 +281,5 @@ OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport[[link](https
 Deep Multi-Modal Structural Equations For Causal Effect Estimation With Unstructured Proxies[[link](Deep Multi-Modal Structural Equations For Causal Effect Estimation With Unstructured Proxies)]
 
 
+# Workshops & Tutorial
+1. Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (DE-FACTIFY 2022) co-located with the Thirty-Sixth AAAI Conference on Artificial Intelligence ( AAAI 2022), Virtual Event, Vancouver, Canada, February 27, 2022. CEUR Workshop Proceedings 3199, CEUR-WS.org 2022
