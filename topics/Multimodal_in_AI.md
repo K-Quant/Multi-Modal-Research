@@ -25,14 +25,67 @@
 15. Sparse Maximum Margin Learning from Multimodal Human Behavioral Patterns.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25676)
 16. MNER-QG: An End-to-End MRC Framework for Multimodal Named Entity Recognition with Query Grounding.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25971)
 > * Text-Image
-17. Mutual-Enhanced Incongruity Learning Network for Multi-Modal Sarcasm Detection.
+17. Mutual-Enhanced Incongruity Learning Network for Multi-Modal Sarcasm Detection.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26138)
 18. Accommodating Audio Modality in CLIP for Multimodal Processing. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26153)
 > * Vision-Language-Audio multimodal
+19. Self-Supervised Audio-Visual Representation Learning with Relaxed Cross-Modal Synchronicity.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26162)
+20. i-Code: An Integrative and Composable Multimodal Learning Framework. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26290)
+21. Joint Multimodal Entity-Relation Extraction Based on Edge-Enhanced Graph Alignment Network and Word-Pair Relation Tagging. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26309)
+22. Multi-Level Confidence Learning for Trustworthy Multimodal Classification. [Link]()
+23. Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26355)
+24. Cross-Modal Distillation for Speaker Recognition.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26525)
+>   * Face image & Speech
+25. Explaining (Sarcastic) Utterances to Enhance Affect Understanding in Multimodal Dialogues. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26526)
+26. SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph. [Link](https://doi.org/10.1609/aaai.v37i11.26562)
+> * Complex relative positions and information alignments
+27. See How You Read? Multi-Reading Habits Fusion Reasoning for Multi-Modal Fake News Detection.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26609)
+28. MPMQA: Multimodal Question Answering on Product Manuals.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26634)
+29. FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26689)
+30. MuMIC - Multimodal Embedding for Multi-Label Image Classification with Tempered Sigmoid.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26850)
+31. Multimodal Propaganda Processing.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26792)
+
 ## 2022
-
-# Workshops
-Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (DE-FACTIFY 2022) co-located with the Thirty-Sixth AAAI Conference on Artificial Intelligence ( AAAI 2022), Virtual Event, Vancouver, Canada, February 27, 2022. CEUR Workshop Proceedings 3199, CEUR-WS.org 2022
-
+1. Event-Image Fusion Stereo Using Cross-Modality Feature Propagation.[Link]()
+2. MuMu: Cooperative Multitask Learning-Based Guided Multimodal Fusion.[Link]()_
+3. Cross-Modal Object Tracking: Modality-Aware Representations and a Unified Benchmark.[Link]()
+4. You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20017)
+> * Texts & Images
+5. Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking.[Link]()
+6. Visual Sound Localization in the Wild by Cross-Modal Interference Erasing.[Link]()
+7. TVT: Three-Way Vision Transformer through Multi-Modal Hypersphere Learning for Zero-Shot Sketch-Based Image Retrieval.[Link]()
+8. Interact, Embed, and EnlargE: Boosting Modality-Specific Representations for Multi-Modal Person Re-identification.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20165)
+9. Multi-Modal Answer Validation for Knowledge-Based VQA. [Link]()
+10. Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20210)
+> * Visual & Audio
+11. Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specific Representation Learning.[Link]()
+> * 
+12. Show Your Faith: Cross-Modal Confidence-Aware Network for Image-Text Matching.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20235)
+> * Texts & Images
+13. MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-Based Image Captioning.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20243)
+> * Texts & Images
+14. Event-Aware Multimodal Mobility Nowcasting.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20342)
+> * Event-aware spatio-temporal network
+15. Online Enhanced Semantic Hashing: Towards Effective and Efficient Retrieval for Streaming Multi-Modal Data.[Link]()
+16. Multimodal Adversarially Learned Inference with Factorized Discriminators.[Link]()
+17. Multi-Head Modularization to Leverage Generalization Capability in Multi-Modal Networks. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20698)
+18. BM-NAS: Bilevel Multimodal Neural Architecture Search. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20872)
+19. Tailor Versatile Multi-Modal Learning for Multi-Label Emotion Recognition.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20895)
+> * Visual, Audio and Text 
+20. Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/21375)
+> * Texts & Images
+21. Hierarchical Cross-Modality Semantic Correlation Learning Model for Multimodal Summarization. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21422)
+> * Texts & Images
+22. UniMS: A Unified Framework for Multimodal Summarization with Knowledge Distillation.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/21431)
+> * Texts & Images
+23. Evaluating Explainable AI on a Multi-Modal Medical Imaging Task: Can Existing Algorithms Fulfill Clinical Requirements?[Link](https://ojs.aaai.org/index.php/AAAI/article/view/21452)
+24. Sentiment and Emotion-Aware Multi-Modal Complaint Identification. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21476)
+> * Texts & Images
+25. D-vlog: Multimodal Vlog Dataset for Depression Detection.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/21483)
+> * Acoustic & Visual freatures
+# Workshops & Tutorial
+1. Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (DE-FACTIFY 2022) co-located with the Thirty-Sixth AAAI Conference on Artificial Intelligence ( AAAI 2022), Virtual Event, Vancouver, Canada, February 27, 2022. CEUR Workshop Proceedings 3199, CEUR-WS.org 2022
+2.
+3. 
 # ICML
 ## 2023
 
