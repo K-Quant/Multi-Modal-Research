@@ -123,8 +123,8 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 
 19. [Multimodal Application] On Explaining Multimodal Hateful Meme Detection Models. (2022) [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512257)]
 
-20. [Multimodal Application] AR-BERT: Aspect-relation enhanced Aspect-level Sentiment Classification with Multi-modal Explanations. (2023) [[Paper](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3511941)]
+20. [Multimodal Application] AR-BERT: Aspect-relation enhanced Aspect-level Sentiment Classification with Multi-modal Explanations. (2022) [[Paper](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3511941)]
 
-21. [Vector DB] Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors. (2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512113)]
+21. [Vector DB] Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors. (2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512113)]
 
-22. [Representation Learning] Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation. (2023) [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512079)]
+22. [Representation Learning] Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation. (2022) [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512079)]
