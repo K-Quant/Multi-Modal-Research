@@ -33,6 +33,24 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 
 10. [Multimodal KG] Multi-modal Siamese Network for Entity Alignment. (2022) [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539244)]
 
+11. [Multimodal Application] A Novel Multi-View Clustering Method for Unknown Mapping Relationships Between Cross-View Samples. (2021) [[Paper](https://doi.org/10.1145/3447548.3467294)]
+
+12. [Multimodal Application] Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts. (2021) [[Paper](https://doi.org/10.1145/3447548.3467297)]
+
+13. [Multimodal Application] Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment. (2021) [[Paper](https://doi.org/10.1145/3447548.3467227)]
+
+14. [Multimodal Application] Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting. (2021) [[Paper](https://doi.org/10.1145/3447548.3467275)]
+
+15.  [Multimodal Application] Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport. (2021) [[Paper](https://doi.org/10.1145/3447548.3467358)]
+
+16.  [Multimodal Application] Multi-graph Multi-label Learning with Dual-granularity Labeling. (2021) [[Paper](https://doi.org/10.1145/3447548.3467339)]
+
+17.  [Multimodal Application] Multi-view Correlation based Black-box Adversarial Attack for 3D Object Detectiong. (2021) [[Paper](https://doi.org/10.1145/3447548.3467432)]
+
+18.  [Multimodal Application] Multi-view Denoising Graph Auto-Encoders on Heterogeneous Information Networks for Cold-start Recommendation. (2021) [[Paper](https://doi.org/10.1145/3447548.3467427)]
+
+19.  [Multimodal KG] Spectral Clustering of Attributed Multi-relational Graphs. (2021) [[Paper](https://doi.org/10.1145/3447548.3467381)]
+
 
 #### ADS Track
 
@@ -51,6 +69,8 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 7. [Multimodal Application, Representation Learning] CommerceMM: Large-Scale Commerce MultiModal Representation Learning with Omni Retrieval. (2022) [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539151)]
 
 8. [Multimodal Application, Representation Learning] Pretraining Representations of Multi-modal Multi-query E-commerce Search. (2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539200)]
+
+9. [Multimodal Application] A Multi-Graph Attributed Reinforcement Learning Based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem
 
 
 ### VLDB
