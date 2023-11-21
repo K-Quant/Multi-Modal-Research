@@ -70,7 +70,21 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 
 8. [Multimodal Application, Representation Learning] Pretraining Representations of Multi-modal Multi-query E-commerce Search. (2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539200)]
 
-9. [Multimodal Application] A Multi-Graph Attributed Reinforcement Learning Based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem
+9. [Multimodal Application] A Multi-Graph Attributed Reinforcement Learning Based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem. (2021) [[Paper](https://doi.org/10.1145/3447548.3467135)]
+
+10. [Multimodal Application] DMBGN: Deep Multi-Behavior Graph Networks for Voucher Redemption Rate Prediction. (2021) [[Paper](https://doi.org/10.1145/3447548.3467191)]
+
+11. [Multimodal Application] Extreme Multi-label Learning for Semantic Matching in Product Search. (2021) [[Paper](https://doi.org/10.1145/3447548.3467092)]
+
+12. [Multimodal Application] M6: Multi-Modality-to-Multi-Modality Multitask Mega-transformer for Unified Pretraining. (2021) [[Paper](https://doi.org/10.1145/3447548.3467206)]
+
+13. [Multimodal Application, Representation Learning] MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal. (2021) [[Paper](https://doi.org/10.1145/3447548.3467187)]
+
+14. [Multimodal Application] Multi-Agent Cooperative Bidding Games for Multi-Objective Optimization in e-Commercial Sponsored Search. (2021) [[Paper](https://doi.org/10.1145/3447548.3467204)]
+
+15. [Multimodal Application] Multi-modal Emergent Fake News Detection via Meta Neural Process Networks. (2021) [[Paper](https://doi.org/10.1145/3447548.3467153)]
+
+16. [Multimodal Application] SEMI: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations. (2021) [[Paper](https://doi.org/10.1145/3447548.3467189)]
 
 
 ### VLDB
@@ -86,6 +100,11 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 
 5. [Vector DB] Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem (2022) [[Paper](https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf)]
 
+6. [Multimodal Application] Multi-Modal Transportation Recommendation with Unified Route Representation Learning. (2021) [[Paper](http://vldb.org/pvldb/volumes/14/paper/Multi-Modal%20Transportation%20Recommendation%20with%20Unified%20Route%20Representation%20Learning)]
+
+7. [Multimodal Application] MultiCategory: Multi-model Query Processing Meets Category Theory and Functional Programming. (2021) [[Paper](http://vldb.org/pvldb/volumes/14/paper/Multi-Modal%20Transportation%20Recommendation%20with%20Unified%20Route%20Representation%20Learning)]
+
+
 
 
 
@@ -100,7 +119,9 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 
 4. [Multimodal Application] ResuFormer: Semantic Structure Understanding for Resumes via Multi-Modal Pre-training. (2023) [[Paper](https://ieeexplore.ieee.org/document/10184685/)]
 
+5. [Multimodal Application] Constrained Route Planning over Large Multi-Modal Time-Dependent Networks. (2021) [[Paper](https://doi.org/10.1109/ICDE51399.2021.00034)]
 
+6. [Multimodal Application] Latent Low-rank Graph Learning for Multimodal Clustering. (2021) [[Paper](https://doi.org/10.1109/ICDE51399.2021.00049)]
 
 
 ### WWW
