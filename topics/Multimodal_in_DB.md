@@ -169,3 +169,9 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 21. [Vector DB] Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors. (2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512113)]
 
 22. [Representation Learning] Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation. (2022) [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512079)]
+
+23. [Multimodal Application] Wiki2Prop: A Multi-Modal Approach for Predicting Wikidata Properties from Wikipedia. (2021) [[Paper](https://doi.org/10.1145/3442381.3450082)]
+
+24. [Vector DB] OCT-GAN: A Neural ODE-based Conditional Tabular GANs. (2021) [[Paper](https://doi.org/10.1145/3442381.3449999)]
+
+25. [Vector DB] BRIGHT: A Bridging Algorithm for Network Alignment. (2021) [[Paper](https://doi.org/10.1145/3442381.3450053)]
