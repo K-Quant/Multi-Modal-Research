@@ -8,7 +8,7 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 
 1. [Vector DB] High-Throughput Vector Similarity Search in Knowledge Graphs. (2023) [[Paper](https://doi.org/10.1145/3589777)]
 
-
+2. [Multimodal KG] MetaInsight: Automatic Discovery of Structured Knowledge for Exploratory Data Analysis. (2021) [[Paper](https://doi.org/10.1145/3448016.3457267)]
 
 
 ### KDD
