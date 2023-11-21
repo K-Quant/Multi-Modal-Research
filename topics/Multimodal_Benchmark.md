@@ -13,6 +13,8 @@ Multimodal Benchmarks
 
 4. Multimodal Sentiment Analysis Benchmark on CMU-MOSI [[Link](https://paperswithcode.com/sota/multimodal-sentiment-analysis-on-cmu-mosi)]
 
+5. OpenBG benchmark: Construction and Applications of Billion-Scale Pre-Trained Multimodal Business Knowledge Graph. (2023) [[Paper](https://doi.org/10.1109/ICDE55515.2023.00229)] [[Link](https://github.com/OpenBGBenchmark/OpenBG)]
+
 
 ### High quality multi-modal dataset in Kaggle
 1. Multimodal Hate Speech(text+image)[[link](https://www.kaggle.com/datasets/victorcallejasf/multimodal-hate-speech)]
@@ -45,3 +47,7 @@ Multimodal Benchmarks
 17. Satellite feature sources: [Meta](https://dataforgood.facebook.com/dfg/tools) - Population, Mobility, Demographics; [OpenStreetMap](https://www.kaggle.com/datasets/bigquery/geo-openstreetmap) - Infrasturcture; [OpenCelliD](https://www.opencellid.org/downloads.php) - Connectivity.
 18. Social Media: [Twitter100k](https://github.com/huyt16/Twitter100k) (100,000 text-image pairs); [HFUT-mmdata](http://scholarhub.cn/ScholarHubProject/MMTM/HFUT-mmdata.zip) (74,364 text-image pairs)
 19. Sentiment Analysis Data: [CMU-MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/); [CMU-MOSEI](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/).
+20. Extreme Abstractive Text Summarization: Fusing Multimodal Signals on Hyper-complex Space for Extreme Abstractive Text Summarization (TL;DR) of Scientific Contents. (KDD 2023) [[Paper](https://doi.org/10.1145/3580305.3599830)]
+21. Multimodal Indoor Localisation in Parkinson's Disease Dataset for Detecting Medication Use: Observational Pilot Study in a Free-Living Setting. (KDD 2023) [[Dataset](https://github.com/ferdianjovan/Multihead-Dual-Convolutional-Self-Attention/tree/master/data)]
+
+22. Biological Knowledge Graph: DRKG [[Link](https://github.com/gnn4dr/DRKG)]
