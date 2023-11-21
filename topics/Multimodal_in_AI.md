@@ -281,6 +281,57 @@ OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport[[link](https
 
 Deep Multi-Modal Structural Equations For Causal Effect Estimation With Unstructured Proxies[[link](Deep Multi-Modal Structural Equations For Causal Effect Estimation With Unstructured Proxies)]
 
+mRI: Multi-modal 3D Human Pose Estimation Dataset using mmWave, RGB-D, and Inertial Sensors[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/af9c9c6d2da701da5a0acf91ec217815-Paper-Datasets_and_Benchmarks.pdf)]
+
+u-HuBERT: Unified Mixed-Modal Speech Pretraining And Zero-Shot Transfer to Unlabeled Modality[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/853e781cb2af58956ed5c89aa59da3fc-Paper-Conference.pdf)]
+
+CHIMLE: Conditional Hierarchical IMLE for Multimodal Conditional Image Synthesis[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/0207c9ea9faf66c6e892c3fa3c167b75-Paper-Conference.pdf)]
+
+Transferring Pre-trained Multimodal Representations with Cross-modal Similarity Matching[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/c7201deff8d507a8fe2e86d34094e154-Paper-Conference.pdf)]
+
+Multi-Lingual Acquisition on Multimodal Pre-training for Cross-modal Retrieval[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/bfadef437ed27372648714c930c3a77a-Paper-Conference.pdf)]
+
+Can Push-forward Generative Models Fit Multimodal Distributions?[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/45f0d179ef7e10eb7366550cd4e574ae-Paper-Conference.pdf)]
+
+CAESAR: An Embodied Simulator for Generating Multimodal Referring Expression Datasets[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/844f722dbbcb27933ff5baf58a1f00c8-Paper-Datasets_and_Benchmarks.pdf)]
+
+Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/f8290ccc2905538be1a7f7914ccef629-Paper-Conference.pdf)]
+
+VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/d46662aa53e78a62afd980a29e0c37ed-Paper-Conference.pdf)]
+
+Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf)]
+
+Mutual Information Divergence: A Unified Metric for Multimodal Generative Models[[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/e40b60677880e7e74f8a081f65703f0d-Paper-Conference.pdf)]
+
+Let Images Give You More: Point Cloud Cross-Modal Training for Shape Analysis[[link](https://neurips.cc/virtual/2022/poster/55376)]
+
+On the Effect of Pre-training for Transformer in Different Modality on Offline Reinforcement Learning[[link](https://neurips.cc/virtual/2022/poster/55028)]
+
+Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark[[link](https://neurips.cc/virtual/2022/poster/55733)]
+
+A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval[[link](https://neurips.cc/virtual/2022/poster/54353)]
+
+Scaling Multimodal Pre-Training via Cross-Modality Gradient Harmonization[[link](https://neurips.cc/virtual/2022/poster/53966)]
+
+Cross-Linked Unified Embedding for cross-modality representation learning[[link](https://neurips.cc/virtual/2022/poster/53026)]
+
+Kernel Multimodal Continuous Attention[[link](https://neurips.cc/virtual/2022/poster/53139)]
+
+Co-Modality Graph Contrastive Learning for Imbalanced Node Classification[[link](https://neurips.cc/virtual/2022/poster/53806)]
+
+MACK: Multimodal Aligned Conceptual Knowledge for Unpaired Image-text Matching[[link](https://neurips.cc/virtual/2022/poster/53179)]
+
+Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts[[link](https://neurips.cc/virtual/2022/poster/54648)]
+
+Towards Effective Multi-Modal Interchanges in Zero-Resource Sounding Object Localization[[link](https://neurips.cc/virtual/2022/poster/54588)]
+
+ActionSense: A Multimodal Dataset and Recording Framework for Human Activities Using Wearable Sensors in a Kitchen Environment[[link](https://neurips.cc/virtual/2022/poster/55638)]
+
+Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning[[link](https://neurips.cc/virtual/2022/poster/55023)]
+
+Deep Multi-Modal Structural Equations For Causal Effect Estimation With Unstructured Proxies[[link](https://neurips.cc/virtual/2022/poster/54852)]
+
+Cross-modal Learning for Image-Guided Point Cloud Shape Completion[[link](https://neurips.cc/virtual/2022/poster/54809)]
 
 # Workshops & Tutorial
 1. Proceedings of the Workshop on Multi-Modal Fake News and Hate-Speech Detection (DE-FACTIFY 2022) co-located with the Thirty-Sixth AAAI Conference on Artificial Intelligence ( AAAI 2022), Virtual Event, Vancouver, Canada, February 27, 2022. CEUR Workshop Proceedings 3199, CEUR-WS.org 2022
