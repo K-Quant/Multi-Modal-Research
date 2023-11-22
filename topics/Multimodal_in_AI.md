@@ -1,7 +1,7 @@
 Note: Taxonomy of six core technical challenges in Multimodal Machine Learning: Representation, Alignment, Reasoning, Generation, Transference, and Quantification.[cite from](https://arxiv.org/abs/2209.03430)
 
 # AAAI 
-## Image & Text
+### Image & Text
 
 [Fusion] MMTN: Multi-Modal Memory Transformer Network for Image-Report Consistent Medical Report Generation.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25100)
 
@@ -25,24 +25,24 @@ Are Vision-Language Transformers Learning Multimodal Representations? A Probing 
 
 MNER-QG: An End-to-End MRC Framework for Multimodal Named Entity Recognition with Query Grounding.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25971)
 
-## Video/Audio & Text
+### Video/Audio & Text
 [Alignment] Tagging before Alignment: Integrating Multi-Modal Tags for Video-Text Retrieval.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25113)
 [Translation] Efficient End-to-End Video Question Answering with Pyramidal Multimodal Transformer. (2023)
 
-## Audio & Visual
+### Audio & Visual
 [Representation Learning] Self-Supervised Audio-Visual Representation Learning with Relaxed Cross-Modal Synchronicity. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26162)
 
-## Verbal (text) and nonverbal cues
+### Verbal (text) and nonverbal cues
 [Fusion] PATRON: Perspective-Aware Multitask Model for Referring Expression Grounding Using Embodied Multimodal Cues.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25177)
 
-## Related to Graph
+### Related to Graph
 Multi-Modal Knowledge Hypergraph for Diverse Image Retrieval. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25445)
 
-## Others  
+### Others  
 [Representation Learning] M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities. (2023)
 Learning Polysemantic Spoof Trace: A Multi-Modal Disentanglement Network for Face Anti-spoofing. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25219)
 
-## Specific Application
+### Specific Application
 [Representation Learning] Sparse Maximum Margin Learning from Multimodal Human Behavioral Patterns. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25676)
 [Representation Learning] M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities. (2023)
 Heterogeneous Graph Learning for Multi-Modal Medical Data Analysis. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25643)
