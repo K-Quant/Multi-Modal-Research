@@ -1,15 +1,17 @@
 # AAAI 
-## 2023
-1. MMTN: Multi-Modal Memory Transformer Network for Image-Report Consistent Medical Report Generation.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25100)
-> * Multi-modal medical data 
-3. Tagging before Alignment: Integrating Multi-Modal Tags for Video-Text Retrieval.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25113)
-> *  Video-text retrieval task
-> *  A joint cross-modal encoder with the triplet input of [vision, tag, text] and perform two additional supervised tasks, Video Text Matching (VTM) and Masked Language Modeling (MLM).
-4. Open-Vocabulary Multi-Label Classification via Multi-Modal Knowledge Transfer.
-5. PATRON: Perspective-Aware Multitask Model for Referring Expression Grounding Using Embodied Multimodal Cues.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25177)
-6. Multi-Modality Deep Network for Extreme Learned Image Compression.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25184)
-> * Text-Image 
-> * Adopt the image-text attention module and image-request complement module to better fuse image and text features
+## Image & Text
+
+1. /[Fusion/] MMTN: Multi-Modal Memory Transformer Network for Image-Report Consistent Medical Report Generation.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25100)
+2. [Representation Learning/Co-learning] Open-Vocabulary Multi-Label Classification via Multi-Modal Knowledge Transfer.(2023) 
+3. Multi-Modality Deep Network for Extreme Learned Image Compression.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25184)
+### 2022  
+## Video & Text
+1. Tagging before Alignment: Integrating Multi-Modal Tags for Video-Text Retrieval.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25113)
+
+## Verbal (text) and nonverbal cues
+
+1. PATRON: Perspective-Aware Multitask Model for Referring Expression Grounding Using Embodied Multimodal Cues.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25177)
+
 7. Learning Polysemantic Spoof Trace: A Multi-Modal Disentanglement Network for Face Anti-spoofing.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25219)
 8. M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities. 
 9. Efficient End-to-End Video Question Answering with Pyramidal Multimodal Transformer. 
