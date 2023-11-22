@@ -1,9 +1,11 @@
+Note: Taxonomy of six core technical challenges in Multimodal Machine Learning: Representation, Alignment, Reasoning, Generation, Transference, and Quantification.
+
 # AAAI 
 ## Image & Text
 
 [Fusion] MMTN: Multi-Modal Memory Transformer Network for Image-Report Consistent Medical Report Generation.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25100)
 
-[Representation Learning/Co-learning] Open-Vocabulary Multi-Label Classification via Multi-Modal Knowledge Transfer.(2023) 
+[Representation Learning/Transference] Open-Vocabulary Multi-Label Classification via Multi-Modal Knowledge Transfer.(2023) 
 
 Multi-Modality Deep Network for Extreme Learned Image Compression. (2023)[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25184) 
 
