@@ -21,7 +21,7 @@ Sentiment and Emotion-Aware Multi-Modal Complaint Identification. (2022) [Link](
 
 Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21375)
 
-MNER-QG: An End-to-End MRC Framework for Multimodal Named Entity Recognition with Query Grounding.[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25971)
+MNER-QG: An End-to-End MRC Framework for Multimodal Named Entity Recognition with Query Grounding.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25971)
 
 ## Video/Audio & Text
 [Alignment] Tagging before Alignment: Integrating Multi-Modal Tags for Video-Text Retrieval.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25113)
