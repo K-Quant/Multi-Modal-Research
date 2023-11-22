@@ -62,7 +62,7 @@ Note: Taxonomy of six core technical challenges in Multimodal Machine Learning: 
 
 [Representation/Transference]i-Code: An Integrative and Composable Multimodal Learning Framework. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26290)
 
-[Translation] Efficient End-to-End Video Question Answering with Pyramidal Multimodal Transformer. (2023) [Link]()
+[Translation] Efficient End-to-End Video Question Answering with Pyramidal Multimodal Transformer. (2023) [Link](https://arxiv.org/abs/2302.02136)
 
 [Reasoning] See How You Read? Multi-Reading Habits Fusion Reasoning for Multi-Modal Fake News Detection. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26609)
 
@@ -76,7 +76,7 @@ Note: Taxonomy of six core technical challenges in Multimodal Machine Learning: 
 
 
 ### Others  
-[Representation] M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities. (2023)
+
 Learning Polysemantic Spoof Trace: A Multi-Modal Disentanglement Network for Face Anti-spoofing. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25219)
 
 [Representation/Quantification] Just Noticeable Visual Redundancy Forecasting: A Deep Multimodal-Driven Approach. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25399)
@@ -86,11 +86,12 @@ Learning Polysemantic Spoof Trace: A Multi-Modal Disentanglement Network for Fac
 [Reasoning/Generation] Explaining (Sarcastic) Utterances to Enhance Affect Understanding in Multimodal Dialogues. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26526)
 
 ### Specific Application
+[Representation] M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities. (2023) [Link](https://arxiv.org/abs/2303.05302)
+
 [Representation] Sparse Maximum Margin Learning from Multimodal Human Behavioral Patterns. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25676)
 
-[Representation] M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities. (2023)
-
 Heterogeneous Graph Learning for Multi-Modal Medical Data Analysis. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25643)
+
 Causal Conditional Hidden Markov Model for Multimodal Traffic Prediction. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25619)
  
 
@@ -115,6 +116,7 @@ Event-Aware Multimodal Mobility Nowcasting. (2022) [Link](https://ojs.aaai.org/i
 Online Enhanced Semantic Hashing: Towards Effective and Efficient Retrieval for Streaming Multi-Modal Data. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20346)
 Multimodal Adversarially Learned Inference with Factorized Discriminators. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20580)
 Multi-Head Modularization to Leverage Generalization Capability in Multi-Modal Networks. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20698)
+
 
 
 BM-NAS: Bilevel Multimodal Neural Architecture Search. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20872)
