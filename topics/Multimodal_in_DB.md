@@ -172,6 +172,3 @@ For DB area, there are domains including Vector DB, Multimodal KG, Representatio
 
 23. [Multimodal Application] Wiki2Prop: A Multi-Modal Approach for Predicting Wikidata Properties from Wikipedia. (2021) [[Paper](https://doi.org/10.1145/3442381.3450082)]
 
-24. [Vector DB] OCT-GAN: A Neural ODE-based Conditional Tabular GANs. (2021) [[Paper](https://doi.org/10.1145/3442381.3449999)]
-
-25. [Vector DB] BRIGHT: A Bridging Algorithm for Network Alignment. (2021) [[Paper](https://doi.org/10.1145/3442381.3450053)]
