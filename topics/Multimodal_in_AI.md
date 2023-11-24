@@ -1,4 +1,6 @@
-Note: Taxonomy of six core technical challenges in Multimodal Machine Learning: Representation, Alignment, Reasoning, Generation, Transference, and Quantification.[cite from](https://arxiv.org/abs/2209.03430)
+# Survey
+Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions (2022)[Link](https://arxiv.org/abs/2209.03430)
+> * Taxonomy of six core technical challenges in Multimodal Machine Learning: Representation, Alignment, Reasoning, Generation, Transference, and Quantification.
 
 # AAAI 
 ### Visual & Text
