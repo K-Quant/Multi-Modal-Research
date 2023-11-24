@@ -4,79 +4,41 @@ Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and
 
 # AAAI 
 ### Visual & Text
+
 1. [Representation] MMTN: Multi-Modal Memory Transformer Network for Image-Report Consistent Medical Report Generation.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25100)
 2. [Representation/Transference] Open-Vocabulary Multi-Label Classification via Multi-Modal Knowledge Transfer.(2023)
 3. [Representation/Reasoning] Mutual-Enhanced Incongruity Learning Network for Multi-Modal Sarcasm Detection. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26138)
-4. 
-[Representation] MMTN: Multi-Modal Memory Transformer Network for Image-Report Consistent Medical Report Generation.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25100)
-
-[Representation/Transference] Open-Vocabulary Multi-Label Classification via Multi-Modal Knowledge Transfer.(2023) 
-
-[Representation/Reasoning] Mutual-Enhanced Incongruity Learning Network for Multi-Modal Sarcasm Detection. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26138)
-
-[Representation] Multi-Modality Deep Network for Extreme Learned Image Compression. (2023)[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25184) 
-
-[Representation] Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21375)
-
-[Representation] MuMIC - Multimodal Embedding for Multi-Label Image Classification with Tempered Sigmoid. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26850)
-
-[Representation/Alignment] Multi-Modal Knowledge Hypergraph for Diverse Image Retrieval. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25445)
-
-[Representation/Reasoning] MPMQA: Multimodal Question Answering on Product Manuals. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26634)
-
-[Representation] Multi-Level Confidence Learning for Trustworthy Multimodal Classification. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26346)
-
-[Representation] Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specific Representation Learning. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20213)
-
-[Representation/Generation] Event-Image Fusion Stereo Using Cross-Modality Feature Propagation. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/19923)
-
-[Representation] MFAN: Multi-modal Feature-enhanced Attention Networks for Rumor Detection. (2022) [Link](https://www.ijcai.org/proceedings/2022/335)
+4. [Representation] Multi-Modality Deep Network for Extreme Learned Image Compression. (2023)[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25184)
+5. [Representation] Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21375)
+6. [Representation] MuMIC - Multimodal Embedding for Multi-Label Image Classification with Tempered Sigmoid. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26850)
+7. [Representation/Alignment] Multi-Modal Knowledge Hypergraph for Diverse Image Retrieval. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25445)
+8. [Representation/Reasoning] MPMQA: Multimodal Question Answering on Product Manuals. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26634)
+9. [Representation] Multi-Level Confidence Learning for Trustworthy Multimodal Classification. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26346)
+10. [Representation] Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specific Representation Learning. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20213)
+11. [Representation/Generation] Event-Image Fusion Stereo Using Cross-Modality Feature Propagation. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/19923)
+12. [Representation] MFAN: Multi-modal Feature-enhanced Attention Networks for Rumor Detection. (2022) [Link](https://www.ijcai.org/proceedings/2022/335)
 > * Textual, visual, and social graph features
-
-[Representation] Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural Networks. (2022) [Link](https://www.ijcai.org/proceedings/2022/482)
+13. [Representation] Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural Networks. (2022) [Link](https://www.ijcai.org/proceedings/2022/482)
 > * Images, text, and graph
-
-[Representation] Targeted Multimodal Sentiment Classification based on Coarse-to-Fine Grained Image-Target Matching. (2022) [Link](https://www.ijcai.org/proceedings/2022/622)
-
-[Alignment] You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20017)
-
-[Alignment] Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26355)
-
-[Alignment] Tagging before Alignment: Integrating Multi-Modal Tags for Video-Text Retrieval.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25113)
-
-[Alignment/Reasoning] TOT: Topology-Aware Optimal Transport for Multimodal Hate Detection. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25614)
-
-[Alignment] Joint Multimodal Entity-Relation Extraction Based on Edge-Enhanced Graph Alignment Network and Word-Pair Relation Tagging. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26309)
-
-[Alignment] Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20210)
-
-[Reasoning] Event-Aware Multimodal Mobility Nowcasting. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20342)
-
-[Reasoning] Multi-Modal Answer Validation for Knowledge-Based VQA. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20174)
-
-[Reasoning] A Multi-Modal Neural Geometric Solver with Textual Clauses Parsed from Diagram. (2023) [Link](https://www.ijcai.org/proceedings/2023/376)
-
-[Reasoning/Quantification] Multimodal Propaganda Processing. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26792)
-
-[Transference] Show Your Faith: Cross-Modal Confidence-Aware Network for Image-Text Matching. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20235)
-
-[Transference] Sentiment and Emotion-Aware Multi-Modal Complaint Identification. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21476)
-
-[Quantification] MNER-QG: An End-to-End MRC Framework for Multimodal Named Entity Recognition with Query Grounding.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25971)
-
-[Quantification/Reasoning] FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26689)
-
-[Generation/Reasoning] SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph. (2023) [Link](https://doi.org/10.1609/aaai.v37i11.26562)
-
-
-[Generation] MAGIC: Multimodal relational Graph adversarial inference for Diverse and Unpaired Text-Based Image Captioning. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20243)
-
-
-
-[Not Directly Categorizable] Hierarchical Cross-Modality Semantic Correlation Learning Model for Multimodal Summarization. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21422)
-
-[Not Directly Categorizable] UniMS: A Unified Framework for Multimodal Summarization with Knowledge Distillation. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21431)
-
+14. [Representation] Targeted Multimodal Sentiment Classification based on Coarse-to-Fine Grained Image-Target Matching. (2022) [Link](https://www.ijcai.org/proceedings/2022/622)
+15. [Alignment] You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20017)
+16. [Alignment] Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26355)
+17. [Alignment] Tagging before Alignment: Integrating Multi-Modal Tags for Video-Text Retrieval.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25113)
+18. [Alignment/Reasoning] TOT: Topology-Aware Optimal Transport for Multimodal Hate Detection. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25614)
+19. [Alignment] Joint Multimodal Entity-Relation Extraction Based on Edge-Enhanced Graph Alignment Network and Word-Pair Relation Tagging. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26309)
+20. [Alignment] Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20210)
+21. [Reasoning] Event-Aware Multimodal Mobility Nowcasting. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20342)
+22. [Reasoning] Multi-Modal Answer Validation for Knowledge-Based VQA. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20174)
+23. [Reasoning] A Multi-Modal Neural Geometric Solver with Textual Clauses Parsed from Diagram. (2023) [Link](https://www.ijcai.org/proceedings/2023/376)
+24. [Reasoning/Quantification] Multimodal Propaganda Processing. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26792)
+25. [Transference] Show Your Faith: Cross-Modal Confidence-Aware Network for Image-Text Matching. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20235)
+26. [Transference] Sentiment and Emotion-Aware Multi-Modal Complaint Identification. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21476)
+27. [Quantification] MNER-QG: An End-to-End MRC Framework for Multimodal Named Entity Recognition with Query Grounding.(2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25971)
+28. [Quantification/Reasoning] FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26689)
+29. [Generation/Reasoning] SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph. (2023) [Link](https://doi.org/10.1609/aaai.v37i11.26562)
+30. [Generation] MAGIC: Multimodal relational Graph adversarial inference for Diverse and Unpaired Text-Based Image Captioning. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20243)
+31. [Not Directly Categorizable] Hierarchical Cross-Modality Semantic Correlation Learning Model for Multimodal Summarization. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21422)
+32. [Not Directly Categorizable] UniMS: A Unified Framework for Multimodal Summarization with Knowledge Distillation. (2022) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/21431)
 
 ### Visual & Audio
 [Transference] Cross-Modal Distillation for Speaker Recognition. (2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26525)
